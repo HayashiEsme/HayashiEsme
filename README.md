@@ -1,4 +1,11 @@
-### Hi there 👋
+
+## Esme (n):
+
+* British-American Singaporean 🇸🇬🇬🇧🇺🇸
+* Embedded Systems Software Engineer
+* Maker
+* Open Source Enthusiast (specifically of the low level sort)
+
 
 <!--
 **HayashiEsme/HayashiEsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
