@@ -2,7 +2,7 @@
 ## Esme (n):
 
 * British-American Singaporean 🇸🇬🇬🇧🇺🇸
-* Embedded Systems Software Engineer
+* Software Engineer
 * Maker
 * Open Source Enthusiast (specifically of the low level sort)
 
