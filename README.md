@@ -4,7 +4,7 @@
 * British-American Singaporean 🇸🇬🇬🇧🇺🇸
 * Software Engineer
 * Maker
-* Open Source Enthusiast (specifically of the low level sort)
+* Open Source Enthusiast
 
 
 <!--
