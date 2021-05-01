@@ -1,7 +1,7 @@
 
 ## Esme (n):
 
-* Singapore-based
+* Singapore-based 🇸🇬
 * Software Engineer
 * Maker
 
