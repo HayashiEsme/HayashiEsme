@@ -1,9 +1,10 @@
 
 ## Esme (n):
 
-* Singapore-based 🇸🇬
-* Software Engineer
-* Maker
+* Software Engineer 
+* Passionate about building brilliant experiences on all parts of the the tech stack (Linux, Kubernetes, Product Development/R&D)
+* Believes that Good DevX and UX starts with solid engineering and architecture that aligns with the needs of users and businesses alike
+* Knows that: team work, strong engineering methodology and rigorous testing are cornerstones of a solid product being built 
 
 
 <!--
